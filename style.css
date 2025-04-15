@@ -1,0 +1,38 @@
+/* ESTILOS GENERALES: Aplican a toda la página */
+body {
+    font-family: 'Georgia', sans-serif; /* Tipografía */
+    line-height: 1.6; /* Espaciado entre líneas */
+    margin: 0;
+    padding: 0;
+    background-color: wheat; /* Color de fondo */
+    color: #333; /* Color de texto principal */
+    }
+    
+    /* ENCABEZADO: Estilos para la sección <header> */
+    header {
+    background-color: chocolate; /* Azul oscuro */
+    color: white;
+    text-align: center;
+    padding: 1rem 0; /* Espaciado interno */
+    }
+    
+    /* SECCIONES: Estilos para <section> */
+ section {
+     margin: 1rem;
+        padding: 1rem;
+        background-color: white;
+        border-radius: 5px; /* Bordes redondeados */
+        }
+        
+        /* LISTA DE PROYECTOS: Estilos para <ul> */
+        ul {
+        list-style-type: square; /* Viñetas cuadradas */
+        }
+        
+        /* PIE DE PÁGINA: Estilos para <footer> */
+        footer {
+        
+        padding: 1rem 0;
+        background-color: chocolate;
+        color: white;
+        }
